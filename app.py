@@ -28,7 +28,7 @@ with col2:
     output_text_area = st.subheader("")
 
 # Configure Gemini API
-genai.configure(api_key=api_key)
+genai.configure(api_key="enter_your_api_key") # here enter your gemini api key
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Webcam settings

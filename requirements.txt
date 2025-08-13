@@ -1,0 +1,8 @@
+Use_pycharm_software_to_run_this_project
+opencv-python
+cvzone
+numpy
+Pillow
+streamlit
+google-generativeai
+python-dotenv
